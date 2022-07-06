@@ -1,5 +1,4 @@
-## Oii, eu sou @KevinVill4
-- 📫 How to reach me kevinvilla712@gmail.com
+## Oii, eu sou Kevin V.
 
 <div align="center">
   <a href="https://github.com/KevinVill4">
