@@ -14,3 +14,5 @@
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> .
   <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+  ![snake gif](https://github.com/KevinVill4/KevinVill4/blob/output/github-contribution-grid-snake.svg)
