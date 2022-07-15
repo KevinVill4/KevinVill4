@@ -16,26 +16,10 @@
     <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 </div>
-<hr>
-  <div align="center" > 
-    <div> 
-      <a href="https://github.com/KevinVill4" target="_blank"> 
-        <img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">  
-      </a> 
-      <a href="https://www.instagram.com/kevin__villa_/" target="_blank"> 
-        <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">  
-      </a>
-      <a href="https://www.facebook.com/kevinvilla2002/" target="_blank"> 
-        <img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">  
-      </a>
-      <a href="https://www.linkedin.com/in/kevin-villa-679483209/" target="_blank"> 
-        <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
-      </a>
-      <a href="https://twitter.com/kevin_vill4" target="_blank"> 
-        <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">  
-      </a>
-    </div>
-    
+  <hr>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinVill4) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin__villa_/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevinvilla2002/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-villa-679483209/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kevin_vill4) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/kevinvill4)
+
   
   
 ![snake gif](https://github.com/KevinVill4/KevinVill4/blob/output/github-contribution-grid-snake.svg)
