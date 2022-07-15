@@ -14,5 +14,9 @@
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> .
   <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<div align="center">
+     <a href="https://github.com/KevinVill4"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
+</div>
+<div>
   ![snake gif](https://github.com/KevinVill4/KevinVill4/blob/output/github-contribution-grid-snake.svg)
+</div>
