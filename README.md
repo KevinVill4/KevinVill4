@@ -1,8 +1,7 @@
-### Hii, I'm Kevin! <img height="17" width="10" src="https://w7.pngwing.com/pngs/887/261/png-transparent-hand-peace-sign-emoji-emoji-peace-symbols-sticker-v-sign-blushing-emoji-hand-smiley-arm-thumbnail.png"/>
-
+### Hii, I'm Kevin!
 <p>
   System Analyst and Developer.
-  Student of Software Engineering!
+  Student of Software Engineering!<br>
   Welcome to my Git. <img height="14" width="14" src="https://cdn.pixabay.com/photo/2017/09/23/16/33/pixel-heart-2779422_1280.png"/>
 </p>
 
