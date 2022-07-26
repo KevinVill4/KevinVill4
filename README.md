@@ -1,9 +1,15 @@
-### Oii, eu sou Kevin V, Analista e Desenvolvedor de Sistemas.
+### Hii, I'm Kevin! <img height="17" width="10" src="https://w7.pngwing.com/pngs/887/261/png-transparent-hand-peace-sign-emoji-emoji-peace-symbols-sticker-v-sign-blushing-emoji-hand-smiley-arm-thumbnail.png"/>
+
+<p>
+  System Analyst and Developer.
+  Student of Software Engineering!
+  Welcome to my Git. <img height="14" width="14" src="https://cdn.pixabay.com/photo/2017/09/23/16/33/pixel-heart-2779422_1280.png"/>
+</p>
 
 <div align="center">
   <a href="https://github.com/KevinVill4">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KevinVill4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVill4&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KevinVill4&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVill4&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div align="center">
