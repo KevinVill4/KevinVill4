@@ -1,7 +1,6 @@
 ### Hii, I'm Kevin!
 <p>
-  System Analyst and Developer.
-  Student of Software Engineering!<br>
+  System Analyst and Developer!<br>
   Welcome to my Git. <img height="20" width="20" src="https://cdn.pixabay.com/photo/2017/09/23/16/33/pixel-heart-2779422_1280.png"/>
 </p>
 
