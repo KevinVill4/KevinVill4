@@ -12,19 +12,20 @@
 
 <div align="center">
   <hr>
-  <div style="display: inline_block "><br>
+  <div style="display: inline_block ">
+    <br>
     <!-- Back-end_start -->
     <span>Back-end: </span>
     <img align="center" alt="Kevin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
     <img align="center" alt="Kevin-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
     <img align="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
     <!-- Front-end_start -->
-    <span style=""> < / > Front-end: </span>
+    <span> < / >&nbsp Front-end: </span>
     <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
     <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
     <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <!-- Framework_start -->
-    <span style="padding: 15px 0px 0px 0px">< / > Frameworks: </span>
+    <span>< / >&nbsp Frameworks: </span>
     <img align="center" alt="Kevin-.NETCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt="Kevin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
     <img align="center" alt="Kevin-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
