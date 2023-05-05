@@ -12,19 +12,19 @@
 
 <div align="center">
   <div style="display: inline_block "><br>
-    <div style="padding: 15px">
+    <div style="padding: 30px">
       <span style="color:red; font-size: 17px">Back-end: </span>
       <img align="center" alt="Kevin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
       <img align="center" alt="Kevin-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
       <img align="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
     </div>
-    <div style="padding: 15px">
+    <div style="padding: 30px">
     <span style="color:red; font-size: 17px">Front-end: </span>
       <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
       <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
       <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </div>
-    <div style="padding: 15px">
+    <div style="padding: 30px">
       <span style="color:red; font-size: 17px">Frameworks: </span>
       <img align="center" alt="Kevin-.NETCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg">
       <img align="center" alt="Kevin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
