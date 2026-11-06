@@ -1,88 +1,100 @@
-<!-- Header banner -->
-<p align="center">
-  <img width="100%" src="assets/header.svg" alt="Hi, I'm Kevin! Systems Analyst &amp; Developer" />
-</p>
+<!-- Header -->
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/KevinVill4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+modern+web+apps+with+React;Keeping+servers+up+and+monitored;Automating+the+boring+stuff+with+Python;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kevin!+%F0%9F%91%8B;Systems+Analyst+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinVill4&color=bd93f9&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
+<img width="420" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Welcome GIF" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=KevinVill4&color=bd93f9&style=flat-square&label=Profile+views" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About me
+## 💻 About me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-
-- 💻 **Systems Analyst & Developer**
+- 👨‍💻 **Systems Analyst & Developer**, passionate about technology
 - 🌐 Building modern, fast web applications with **React**
-- ☁️ Deploying and serving sites on **Cloudflare**
 - 🖥️ Working with **IT infrastructure**, servers and monitoring
 - ⚙️ Automating repetitive tasks with **Python**
-- 🌱 Always learning and exploring new technologies
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kevin-vill4/) or by [email](mailto:kevin.oliveiravilla@gmail.com)
-
-<br clear="right" />
 
 ---
 
-## 🛠️ Tech stack
+## 🎯 Goals
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,react,vite,html,css&theme=dark" alt="Languages and frameworks" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,windows,linux,git,github,vscode&theme=dark" alt="Tools and platforms" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-</p>
+- 🚀 Grow as a **full-stack developer**
+- ☁️ Deepen my knowledge of **cloud, DevOps and CI/CD**
+- 🤝 Contribute more to **open source** projects
 
 ---
 
-## 📊 GitHub stats
+## 🧰 What I work with
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinVill4&theme=dracula&hide_border=true" alt="GitHub streak" />
-</p>
+- **🌐 Web:** React, Vite, JavaScript, TypeScript, HTML, CSS
+- **☁️ Hosting & Deploy:** Cloudflare, GitHub Actions
+- **🖥️ Infrastructure:** Windows Server, Linux
+- **📊 Monitoring:** Zabbix
+- **🐍 Automation & Scripting:** Python
+- **☕ Other languages:** C, Java
 
 ---
 
-## 🟡 Pac-Man contributions
+## 🚀 Technologies & Tools
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img width="100%" src="assets/footer.svg" alt="Footer" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,py,java,js,ts,react,vite,html,css&theme=dark" alt="Languages and frameworks" />
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,cloudflare&theme=dark" alt="Tools" />
+<br />
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell&theme=dark" alt="Platforms" />
+<br />
+<img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+
+<br /><br />
+
+<img width="380" src="https://media.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Terminal GIF" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Languages by commit" />
+
+<img src="https://streak-stats.demolab.com?user=KevinVill4&theme=dracula&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kevin-vill4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kevin.oliveiravilla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
+
+---
+
+## 🕹️ Contributions as Pac-Man
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+</div>
