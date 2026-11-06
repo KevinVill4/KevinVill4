@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#bd93f9"/>
+      <stop offset="100%" stop-color="#ff79c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" fill="url(#g)"/>
+  <path fill="#282a36" fill-opacity="0.35">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 175 C 200 145, 400 205, 600 175 S 900 145, 1000 170 V 220 H 0 Z;
+              M0 170 C 200 205, 400 145, 600 170 S 900 205, 1000 175 V 220 H 0 Z;
+              M0 175 C 200 145, 400 205, 600 175 S 900 145, 1000 170 V 220 H 0 Z"/>
+  </path>
+  <path fill="#0d1117">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 195 C 250 175, 450 215, 700 192 S 900 178, 1000 195 V 220 H 0 Z;
+              M0 192 C 250 215, 450 175, 700 197 S 900 212, 1000 190 V 220 H 0 Z;
+              M0 195 C 250 175, 450 215, 700 192 S 900 178, 1000 195 V 220 H 0 Z"/>
+  </path>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#f8f8f2">
+    <text x="500" y="88" font-size="52" font-weight="700">Hi, I'm Kevin!
+      <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
+    </text>
+    <text x="500" y="128" font-size="22" opacity="0">Systems Analyst &amp; Developer
+      <animate attributeName="opacity" from="0" to="0.9" begin="0.8s" dur="1.5s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
