@@ -50,6 +50,18 @@
 
 ---
 
+## 🟡 Pac-Man contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -68,18 +80,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KevinVill4&theme=dracula&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🟡 Pac-Man contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
-  </picture>
 </p>
 
 <!-- Footer -->
