@@ -22,7 +22,6 @@
 
 - 💻 **Systems Analyst & Developer**
 - 🌐 Building modern, fast web applications with **React**
-- ☁️ Deploying and serving sites on **Cloudflare**
 - 🖥️ Working with **IT infrastructure**, servers and monitoring
 - ⚙️ Automating repetitive tasks with **Python**
 - 🌱 Always learning and exploring new technologies
