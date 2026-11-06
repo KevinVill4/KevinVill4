@@ -1,0 +1,30 @@
+# Gera o grid de contribuicoes com o jogo do Pac-Man.
+name: Pac-Man Contribution Graph
+
+on:
+  schedule:
+    # Atualiza a cada 12 horas.
+    - cron: "0 */12 * * *"
+  # Permite executar manualmente pela aba Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push to the output-pacman branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-pacman
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

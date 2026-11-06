@@ -72,10 +72,14 @@
 
 ---
 
-## 🐍 Contribution snake
+## 🟡 Pac-Man contributions
 
 <p align="center">
-  <img src="https://github.com/KevinVill4/KevinVill4/raw/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/KevinVill4/KevinVill4/output-pacman/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <!-- Footer -->
